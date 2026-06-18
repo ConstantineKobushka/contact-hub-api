@@ -1,4 +1,7 @@
 # contact hub api
 
-🔗 **Live Demo:**
-[https://film-library-puce.vercel.app/](https://film-library-puce.vercel.app/)
+## 📚 API Documentation
+
+Explore the API endpoints using Swagger:
+
+➡️ [Open Swagger Documentation](https://contact-hub-api-z9ue.onrender.com/)
