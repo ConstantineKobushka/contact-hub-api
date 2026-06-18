@@ -12,7 +12,7 @@ tags:
   - name: Contacts
     description: Operations about contacts.
 servers:
-  - url: https://contact-hub-api-z9ue.onrender.com/
+  - url: https://contact-hub-api-4o9o.onrender.com/
 paths:
   /auth/register:
     post:
